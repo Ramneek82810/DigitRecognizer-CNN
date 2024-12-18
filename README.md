@@ -1,4 +1,4 @@
-# 🖥️ Handwritten Digit Classification with CNN 🤖
+# 🖥️ Hand-written Digit Classification with CNN 🤖
 
 Welcome to the MNIST Handwritten Digit Classifier project! 🎉 This repository demonstrates the power of Convolutional Neural Networks (CNNs) by training a model to classify handwritten digits using the MNIST dataset and integrating the trained model into an interactive application built with Pygame. 🎮
 
