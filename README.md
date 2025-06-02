@@ -6,7 +6,7 @@ Welcome to the MNIST Handwritten Digit Classifier project! 🎉 This repository 
 
 - 🧠 CNN Model Training: Trains a deep learning model to recognize digits (0-9) from images.
 
--🎮 Interactive Pygame App: Allows users to draw digits and see real-time predictions from the trained model.
+- 🎮 Interactive Pygame App: Allows users to draw digits and see real-time predictions from the trained model.
 
 -📊 MNIST Dataset: Utilizes the gold-standard dataset for handwritten digit classification.
 
