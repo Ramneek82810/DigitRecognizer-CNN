@@ -8,7 +8,7 @@ Welcome to the MNIST Handwritten Digit Classifier project! 🎉 This repository 
 
 - 🎮 Interactive Pygame App: Allows users to draw digits and see real-time predictions from the trained model.
 
--📊 MNIST Dataset: Utilizes the gold-standard dataset for handwritten digit classification.
+- 📊 MNIST Dataset: Utilizes the gold-standard dataset for handwritten digit classification.
 
 -🔄 End-to-End Workflow: From training the model to deploying it in an interactive application.
 
