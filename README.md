@@ -24,7 +24,7 @@ Welcome to the MNIST Handwritten Digit Classifier project! 🎉 This repository 
 
 2️⃣ Interactive Application
 
--Built using Pygame for a user-friendly drawing interface.
+- Built using Pygame for a user-friendly drawing interface.
 
 -Loads the trained model to make predictions in real-time.
 
