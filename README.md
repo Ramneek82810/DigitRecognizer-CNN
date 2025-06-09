@@ -16,7 +16,7 @@ Welcome to the MNIST Handwritten Digit Classifier project! 🎉 This repository 
 
 1️⃣ Training Script
 
--Implements a CNN to classify handwritten digits.
+- Implements a CNN to classify handwritten digits.
 
 -Uses the MNIST dataset for training and validation.
 
