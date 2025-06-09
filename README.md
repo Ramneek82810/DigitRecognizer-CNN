@@ -20,7 +20,7 @@ Welcome to the MNIST Handwritten Digit Classifier project! 🎉 This repository 
 
 - Uses the MNIST dataset for training and validation.
 
--Achieves high accuracy through techniques like dropout and activation functions.
+- Achieves high accuracy through techniques like dropout and activation functions.
 
 2️⃣ Interactive Application
 
