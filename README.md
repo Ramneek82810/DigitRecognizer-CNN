@@ -10,7 +10,7 @@ Welcome to the MNIST Handwritten Digit Classifier project! 🎉 This repository 
 
 - 📊 MNIST Dataset: Utilizes the gold-standard dataset for handwritten digit classification.
 
--🔄 End-to-End Workflow: From training the model to deploying it in an interactive application.
+- 🔄 End-to-End Workflow: From training the model to deploying it in an interactive application.
 
 ## 📂 Project Overview
 
