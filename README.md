@@ -44,7 +44,7 @@ The MNIST dataset is a collection of 70,000 grayscale images (28x28 pixels) of h
 
 - Train the Model: Start by training the CNN on the MNIST dataset.
 
--Run the App: Use Pygame to draw digits and see predictions in action.
+- Run the App: Use Pygame to draw digits and see predictions in action.
 
 -Enhance and Experiment: Try different CNN architectures or add new features to the app!
 
