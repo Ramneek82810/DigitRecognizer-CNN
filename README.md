@@ -54,7 +54,7 @@ This project demonstrates:
 
 - 🧠 The effectiveness of CNNs for image classification.
 
--🎨 How to combine AI with interactive applications.
+- 🎨 How to combine AI with interactive applications.
 
 -📚 A practical application of AI in computer vision tasks.
 
