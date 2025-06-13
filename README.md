@@ -52,7 +52,7 @@ The MNIST dataset is a collection of 70,000 grayscale images (28x28 pixels) of h
 
 This project demonstrates:
 
--🧠 The effectiveness of CNNs for image classification.
+- 🧠 The effectiveness of CNNs for image classification.
 
 -🎨 How to combine AI with interactive applications.
 
