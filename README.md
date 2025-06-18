@@ -56,7 +56,7 @@ This project demonstrates:
 
 - 🎨 How to combine AI with interactive applications.
 
--📚 A practical application of AI in computer vision tasks.
+- 📚 A practical application of AI in computer vision tasks.
 
 ## 🎉 Let’s Explore!
 
