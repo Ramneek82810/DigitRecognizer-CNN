@@ -12,7 +12,7 @@ Welcome to the MNIST Handwritten Digit Classifier project! 🎉 This repository 
 
 - 🔄 End-to-End Workflow: From training the model to deploying it in an interactive application.
 
-## 📂 Project Overview
+## 📂  Project Overview
 
 1️⃣ Training Script
 
