@@ -1,64 +1,66 @@
-# 🖥️ Hand-written Digit Classification with CNN 🤖
+# 🔢 Digit Recognizer using CNN
 
-Welcome to the MNIST Handwritten Digit Classifier project! 🎉 This repository demonstrates the power of Convolutional Neural Networks (CNNs) by training a model to classify handwritten digits using the MNIST dataset and integrating the trained model into an interactive application built with Pygame. 🎮
+A Convolutional Neural Network (CNN) based image classification project that recognizes handwritten digits (0–9) using the MNIST dataset. This project demonstrates a fundamental deep learning workflow including data preprocessing, model training, and evaluation.
 
-## 🌟 Key Features
+## 🚀 Features
 
-- 🧠 CNN Model Training: Trains a deep learning model to recognize digits (0-9) from images.
+- 🧠 Built using Convolutional Neural Networks (CNN)  
+- 🔢 Recognizes digits from 0 to 9 using MNIST dataset  
+- 📉 Shows training and validation accuracy and loss  
+- 🖼️ Visualizes predictions and confusion matrix  
+- ✅ Lightweight and beginner-friendly  
 
-- 🎮 Interactive Pygame App: Allows users to draw digits and see real-time predictions from the trained model.
+## 📁 Project Structure
 
-- 📊 MNIST Dataset: Utilizes the gold-standard dataset for handwritten digit classification.
+```
+DigitRecognizer-CNN/
+│
+├── handwriting.py               
+├── recognition.py              
+├── assets/fonts
+├── model.h5              
+└── README.md               
+```
 
-- 🔄 End-to-End Workflow: From training the model to deploying it in an interactive application.
+## ⚙️ Installation
 
-## 📂 Project Overview
+### 1. Clone the Repository
 
-1️⃣ Training Script
+```
+git clone https://github.com/Ramneek82810/DigitRecognizer-CNN.git
+cd DigitRecognizer-CNN
+```
 
-- Implements a CNN to classify handwritten digits.
+### 2. Create and Activate Virtual Environment (optional but recommended)
 
-- Uses the MNIST dataset for training and validation.
+```
+python -m venv .venv
+source .venv/bin/activate    # On Windows use: .venv\Scripts\activate
+```
 
-- Achieves high accuracy through techniques like dropout and activation functions.
+### 3. Install Dependencies
 
-2️⃣ Interactive Application
+```
+pip install tensorflow keras numpy matplotlib seaborn
+```
 
-- Built using Pygame for a user-friendly drawing interface.
 
-- Loads the trained model to make predictions in real-time.
+## 💡 How It Works
 
-## 🖼️ MNIST Dataset
+- Loads and preprocesses the MNIST dataset  
+- Trains a CNN to classify digits based on pixel patterns  
+- Evaluates model performance using test accuracy and confusion matrix  
+- Visualizes results using matplotlib and seaborn  
 
-The MNIST dataset is a collection of 70,000 grayscale images (28x28 pixels) of handwritten digits. It is widely used for benchmarking machine learning and deep learning models. 📖
+## 📌 Todo
 
-## 🌈 Highlights
+- Add support for custom digit image uploads  
+- Implement GUI using Streamlit or Tkinter  
+- Save and load trained models for reuse  
+- Explore advanced architectures (ResNet, MobileNet, etc.)  
 
-✨ Explore the power of CNNs in image recognition.
+## 🤝 Contributing
 
-✨ Learn how to integrate deep learning models into interactive applications.
+Pull requests are welcome! For major changes, please open an issue first.
 
-✨ A practical hands-on project for beginners and enthusiasts in AI/ML.
-
-## 🚀 Getting Started
-
-- Train the Model: Start by training the CNN on the MNIST dataset.
-
-- Run the App: Use Pygame to draw digits and see predictions in action.
-
-- Enhance and Experiment: Try different CNN architectures or add new features to the app!
-
-## 📊 Insights
-
-This project demonstrates:
-
-- 🧠 The effectiveness of CNNs for image classification.
-
-- 🎨 How to combine AI with interactive applications.
-
-- 📚 A practical application of AI in computer vision tasks.
-
-## 🎉 Let’s Explore!
-
-Dive into the world of AI and computer vision with this exciting project! Train the model, interact with the app, and experience the magic of neural networks. 🌟
 
